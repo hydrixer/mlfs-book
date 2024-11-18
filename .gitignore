@@ -166,3 +166,6 @@ cython_debug/
 
 snurran.sh
 .DS_Store
+notebooks/ch03/api-key
+notebooks/ch03/api_hopsworks.txt
+data/hopsworks-api-key.txt
