@@ -1,6 +1,6 @@
 ## ML Systems Dashboard
 
-Our future pm25 forecast: [Forecast_weekly](/air-quality/assets/img/pm25_forecast.png)
+##Our future pm25 forecast: [Forecast_weekly](/air-quality/assets/img/pm25_forecast.png)
 ##![Hopsworks Logo](/titanic/assets/img/logo.png)
 
 ##The example ML Systems are:
